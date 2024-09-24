@@ -46,24 +46,26 @@ hr{
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    background: #252525;
-    color: #fff;
+    background: transparent;
+    color: #e69a0f;
     padding: 20px 30px;
 }
 
 .top-head .fas{
     font-size: 2rem;
     cursor: pointer;
+    background-color: transparent;
 }
 
 /******* js related styling *****/
+
 
 .times-btn{
     display: none;
 }
 
 .nav-bar{
-    background: #333;
+    background: #ff0000;
     height: 0;
     overflow: hidden;
 }
